@@ -5,4 +5,4 @@ Within months, COVID-19 went from an epidemic to a pandemic. From the first iden
 
 This DataCamp project assumes you can manipulate data frames using dplyr and make plots using ggplot2.
 
-Link: https://app.datacamp.com/workspace/w/197c8662-2b30-4e67-a92e-d0c85f649cf7/edit
+Link: https://app.datacamp.com/workspace/w/197c8662-2b30-4e67-a92e-d0c85f649cf7
